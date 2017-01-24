@@ -1,3 +1,5 @@
+#This code was built with the help of tutorial videos on www.pythonprogramming.net
+
 from __future__ import division
 from statistics import mean
 import numpy as np
